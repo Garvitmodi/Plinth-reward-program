@@ -119,6 +119,13 @@ body {
   font-size: 16px;
   line-height: 1.25em;
 }
+<<<<<<< HEAD
+=======
+
+.btn{
+  margin-left: 80px;
+}
+>>>>>>> 0a8aaaa... changes
 h1 {
   font-family: 'Adelle W01 Bold', 'Arvo', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   font-size: 70px;
